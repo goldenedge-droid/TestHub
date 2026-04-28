@@ -1,0 +1,6 @@
+{
+  "name": "TestPlanPro",
+  "description": "App to manage tests and planning of configurations via Excel templates",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
